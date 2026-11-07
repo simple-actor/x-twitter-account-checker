@@ -1,0 +1,819 @@
+[
+  {
+    "type": "user",
+    "userName": "QUBelfast",
+    "url": "https://x.com/QUBelfast",
+    "twitterUrl": "https://twitter.com/QUBelfast",
+    "id": "36943804",
+    "name": "Queen's University Belfast 🎓",
+    "isVerified": null,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1572138829250699264/AY6D6j46_normal.jpg",
+    "profilePictureFull": "https://pbs.twimg.com/profile_images/1572138829250699264/AY6D6j46.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/36943804/1747736373",
+    "description": "One of @RussellGroup’s leading research-intensive universities. We provide world-class education & research. RT≠Endorsement. House Rules: https://t.co/SIH5LwQW9b",
+    "location": "Belfast, Northern Ireland, UK",
+    "followers": 59835,
+    "following": 907,
+    "statusesCount": 28186,
+    "website": "http://www.qub.ac.uk",
+    "isProtected": false,
+    "possiblySensitive": false,
+    "affiliateLabel": null,
+    "affiliateBadgeUrl": null,
+    "identityLabel": null,
+    "identityLabelType": null,
+    "identityBadgeUrl": null,
+    "identityLabelUrl": null,
+    "affiliatesCount": null,
+    "creatorSubscriptionsCount": 0,
+    "isProfessional": false,
+    "profileImageShape": "Circle",
+    "superFollowEligible": false,
+    "createdAt": "Fri May 01 13:39:15 +0000 2009",
+    "createdAtIso": "2009-05-01T13:39:15.000Z",
+    "inputUrl": "https://x.com/QUBelfast",
+    "profileUrl": "https://x.com/QUBelfast",
+    "postsReturned": 5,
+    "latestPostAt": "2026-02-09T09:53:24.000Z",
+    "daysSinceLatestPost": 270,
+    "timelineWithheld": false,
+    "posts": [
+      {
+        "id": "2020798178321211683",
+        "type": "tweet",
+        "url": "https://x.com/QUBelfast/status/2020798178321211683",
+        "twitterUrl": "https://twitter.com/QUBelfast/status/2020798178321211683",
+        "text": "We are currently not using X (formerly Twitter). This decision reflects our commitment to ensuring that our communications take place in spaces that are respectful, inclusive and aligned with the University’s values. \n\nFollow our other accounts to stay up to date:\n\n🔴 LinkedIn: https://t.co/qUyzPYZo72\n🔴 Bluesky: https://t.co/5OwUc3sfKL\n🔴 Instagram: https://t.co/25IIKxZDYW\n🔴 TikTok: https://t.co/Arwmt1ehoN\n🔴 Facebook: https://t.co/FZpGQrhj3g\n🔴 Threads: https://t.co/XKRdVwUANc \n\nSee you over there!",
+        "createdAtIso": "2026-02-09T09:53:24.000Z",
+        "timestamp": 1770630804000,
+        "likeCount": 127,
+        "retweetCount": 22,
+        "replyCount": 150,
+        "quoteCount": 29,
+        "bookmarkCount": 14,
+        "viewCount": 45436,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": true,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://ow.ly/VALr50Y4ewr",
+          "https://ow.ly/nrpb50Y4exh",
+          "https://ow.ly/I6oY50Y4exE",
+          "https://ow.ly/6y5A50Y4eyp",
+          "https://ow.ly/fICS50Y4eyr",
+          "https://ow.ly/bNJG50Y4eAj"
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020798173816446976",
+            "mediaUrl": "https://pbs.twimg.com/media/HAtRO4EWYAAgpkH.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 1080,
+            "height": 1080,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              278,
+              301
+            ]
+          }
+        ],
+        "imageCount": 1,
+        "videoCount": 0,
+        "authorUserName": "QUBelfast"
+      },
+      {
+        "id": "2015862382644363390",
+        "type": "tweet",
+        "url": "https://x.com/QUBelfast/status/2015862382644363390",
+        "twitterUrl": "https://twitter.com/QUBelfast/status/2015862382644363390",
+        "text": "Could this be your new office?\n\nCheck out our latest job opportunities - your dream job could be waiting for you!\n\nFind out more: https://t.co/f7mY7tCn23 https://t.co/nH1amsdaDA",
+        "createdAtIso": "2026-01-26T19:00:19.000Z",
+        "timestamp": 1769454019000,
+        "likeCount": 0,
+        "retweetCount": 0,
+        "replyCount": 0,
+        "quoteCount": 0,
+        "bookmarkCount": 2,
+        "viewCount": 4537,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "http://ow.ly/glRK50WWAbW"
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "id": "2015862376755503104",
+            "mediaUrl": "https://pbs.twimg.com/media/G_nIJrKWIAAzvjJ.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 1600,
+            "height": 900,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              154,
+              177
+            ]
+          }
+        ],
+        "imageCount": 1,
+        "videoCount": 0,
+        "authorUserName": "QUBelfast"
+      },
+      {
+        "id": "2015846237975589241",
+        "type": "tweet",
+        "url": "https://x.com/QUBelfast/status/2015846237975589241",
+        "twitterUrl": "https://twitter.com/QUBelfast/status/2015846237975589241",
+        "text": "Your safety and wellbeing are our top priority. That's why the University campus will be closed tomorrow, Tuesday 27 January, due to the amber weather warning across Northern Ireland.\n \nWhere appropriate and possible, teaching will move online for our students and your School or Centre will be in touch to let you know about the arrangements in your area.\n \nWhere necessary, some staff will continue to work on campus to carry out crucial roles, delivering and supporting essential services.\n \nStudent support services will be available remotely and Queen's Accommodation will remain open as normal. \n\nThe McClay Library will close from 7.00am on Tuesday morning but aims to reopen at 9.00pm that evening.\n \nSee you back on campus soon!",
+        "createdAtIso": "2026-01-26T17:56:10.000Z",
+        "timestamp": 1769450170000,
+        "likeCount": 19,
+        "retweetCount": 15,
+        "replyCount": 2,
+        "quoteCount": 4,
+        "bookmarkCount": 2,
+        "viewCount": 8886,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "type": "photo",
+            "id": "2015846235823816704",
+            "mediaUrl": "https://pbs.twimg.com/media/G_m5eJgWQAA2iqt.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 1200,
+            "height": 627,
+            "altText": "Image shows an aerial photograph of the Lanyon Building. Above it is white text that reads:\nCAMPUS UPDATE\nWEATHER WARNING",
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              280,
+              303
+            ]
+          }
+        ],
+        "imageCount": 1,
+        "videoCount": 0,
+        "authorUserName": "QUBelfast"
+      },
+      {
+        "id": "2013905475817927147",
+        "type": "tweet",
+        "url": "https://x.com/QUBelfast/status/2013905475817927147",
+        "twitterUrl": "https://twitter.com/QUBelfast/status/2013905475817927147",
+        "text": "Congratulations to Professor Olwen Purdue who has been elected President of the International Federation for Public History.  \n\nProfessor Purdue, who is the Director of the Centre for Public History at Queen's, is an internationally recognised public historian who works closely with cultural organisations and communities at local and global levels.  \n\nYou can find out more about Professor Purdue's work and her new appointment here: https://t.co/WmSnawwFDO \n\n#LoveQUB | #PublicHistory | #History | @HAPPatQUB",
+        "createdAtIso": "2026-01-21T09:24:16.000Z",
+        "timestamp": 1768987456000,
+        "likeCount": 6,
+        "retweetCount": 3,
+        "replyCount": 0,
+        "quoteCount": 0,
+        "bookmarkCount": 0,
+        "viewCount": 3056,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [
+          "LoveQUB",
+          "PublicHistory",
+          "History"
+        ],
+        "mentions": [
+          "HAPPatQUB"
+        ],
+        "urls": [
+          "http://ow.ly/2jHo50XZYCL"
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "id": "2013905304270852096",
+            "mediaUrl": "https://pbs.twimg.com/media/G_LUNEBW0AAM3is.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 1600,
+            "height": 767,
+            "altText": "Image shows Professor Olwen Purdue smiling at the camera. She is pictured in the Quad at the Lanyon Building.",
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              279,
+              302
+            ]
+          }
+        ],
+        "imageCount": 1,
+        "videoCount": 0,
+        "authorUserName": "QUBelfast"
+      },
+      {
+        "id": "2013624161894060289",
+        "type": "tweet",
+        "url": "https://x.com/QUBelfast/status/2013624161894060289",
+        "twitterUrl": "https://twitter.com/QUBelfast/status/2013624161894060289",
+        "text": "We have started construction on the expanded Momentum One Zero innovation centre, our business-led facility focused on #cybersecurity, #ArtificialIntelligence and #wireless technologies.\n\nDelivered as part of the £70 million Belfast Region City Deal investment, @QUBMomentum10 will act as a focal point for industry-led digital innovation, supporting collaboration across sectors including health, agri-food, financial services, sustainability, and advanced manufacturing.\n\nWe were joined on site by key representatives from government, civic, academic, and industry to cut the sod at Belfast’s Titanic Quarter.\n\n“Momentum One Zero is a clear example of how Queen’s is turning research excellence into economic impact. This expansion reflects the scale of ambition we have for digital innovation in #NorthernIreland — supporting high-value jobs, strengthening our skills base, and ensuring that businesses here can compete and lead on a global stage.” (Professor Sir Ian Greer, @QUBVChancellor)\n\nFind out more here ➡️ https://t.co/jtDJeYuead\n\n#LoveQUB | #BRCityDeal | #CityDeal | @QUBCityDeal | @belfastcc | @Economy_NI",
+        "createdAtIso": "2026-01-20T14:46:26.000Z",
+        "timestamp": 1768920386000,
+        "likeCount": 15,
+        "retweetCount": 1,
+        "replyCount": 0,
+        "quoteCount": 3,
+        "bookmarkCount": 1,
+        "viewCount": 2934,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [
+          "cybersecurity",
+          "ArtificialIntelligence",
+          "wireless",
+          "NorthernIreland",
+          "LoveQUB",
+          "BRCityDeal",
+          "CityDeal"
+        ],
+        "mentions": [
+          "QUBMomentum10",
+          "QUBVChancellor",
+          "QUBCityDeal",
+          "belfastcc",
+          "Economy_NI"
+        ],
+        "urls": [
+          "http://ow.ly/RyG950Y0476"
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "id": "2013623214132342784",
+            "mediaUrl": "https://pbs.twimg.com/media/G_HTpQXWsAAU6qu.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 4096,
+            "height": 2736,
+            "altText": "Image shows eighteen people standing on the building site for the Momentum One Zero expansion, wearing hi-vis jackets and white hard hats. Digging equipment and machinery can be seen in the background behind them.\n",
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              277,
+              300
+            ]
+          },
+          {
+            "type": "photo",
+            "id": "2013623556119183360",
+            "mediaUrl": "https://pbs.twimg.com/media/G_HT9KXXwAALbN4.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 4096,
+            "height": 2736,
+            "altText": "Image shows seven people standing on the building site for the Momentum One Zero expansion, wearing hi-vis jackets and white hard hats. Digging equipment and machinery can be seen in the background behind them.",
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              277,
+              300
+            ]
+          },
+          {
+            "type": "photo",
+            "id": "2013623724377833472",
+            "mediaUrl": "https://pbs.twimg.com/media/G_HUG9LXAAA51Ih.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 4096,
+            "height": 2736,
+            "altText": "Image shows Economy Minister, Dr Caoimhe Archibald, shaking hands with a member of Queen's staff, with four other people in the background.",
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              277,
+              300
+            ]
+          },
+          {
+            "type": "photo",
+            "id": "2013623787460104192",
+            "mediaUrl": "https://pbs.twimg.com/media/G_HUKoLWEAARZEk.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 2768,
+            "height": 1848,
+            "altText": "Image shows four people talking together including Professor Sir Ian Greer, President and Vice-Chancellor of Queen's University Belfast and Lord Mayor of Belfast, Councillor Tracy Kelly.\n",
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              277,
+              300
+            ]
+          }
+        ],
+        "imageCount": 4,
+        "videoCount": 0,
+        "authorUserName": "QUBelfast"
+      }
+    ],
+    "scrapedAt": "2026-11-07T03:37:15.130Z"
+  },
+  {
+    "type": "user",
+    "userName": "uniofwarwick",
+    "url": "https://x.com/uniofwarwick",
+    "twitterUrl": "https://twitter.com/uniofwarwick",
+    "id": "15916215",
+    "name": "University of Warwick",
+    "isVerified": null,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1935344584680173568/L32CBwr2_normal.jpg",
+    "profilePictureFull": "https://pbs.twimg.com/profile_images/1935344584680173568/L32CBwr2.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/15916215/1750257081",
+    "description": "Official home of the top 10 UK uni (Guardian Uni Guide 2024). Follow for research, news, and campus life! Here to help 09:00 to 17:30 (GMT), Monday to Friday.",
+    "location": "United Kingdom",
+    "followers": 89516,
+    "following": 2006,
+    "statusesCount": 34447,
+    "website": "http://warwick.ac.uk",
+    "isProtected": false,
+    "possiblySensitive": false,
+    "affiliateLabel": null,
+    "affiliateBadgeUrl": null,
+    "identityLabel": null,
+    "identityLabelType": null,
+    "identityBadgeUrl": null,
+    "identityLabelUrl": null,
+    "affiliatesCount": null,
+    "creatorSubscriptionsCount": 0,
+    "isProfessional": false,
+    "profileImageShape": "Circle",
+    "superFollowEligible": false,
+    "createdAt": "Wed Aug 20 11:12:25 +0000 2008",
+    "createdAtIso": "2008-08-20T11:12:25.000Z",
+    "inputUrl": "https://x.com/uniofwarwick",
+    "profileUrl": "https://x.com/uniofwarwick",
+    "postsReturned": 5,
+    "latestPostAt": "2025-01-20T08:01:16.000Z",
+    "daysSinceLatestPost": 655,
+    "timelineWithheld": false,
+    "posts": [
+      {
+        "id": "1881250627067523208",
+        "type": "tweet",
+        "url": "https://x.com/uniofwarwick/status/1881250627067523208",
+        "twitterUrl": "https://twitter.com/uniofwarwick/status/1881250627067523208",
+        "text": "Mindful moments this winter at Warwick. Pause, breathe, and soak in the serene beauty of winter and nature on our campus. #Mindfulness #BlueMonday https://t.co/hkbdFceb1b",
+        "createdAtIso": "2025-01-20T08:01:16.000Z",
+        "timestamp": 1737360076000,
+        "likeCount": 58,
+        "retweetCount": 4,
+        "replyCount": 31,
+        "quoteCount": 0,
+        "bookmarkCount": 6,
+        "viewCount": 19161,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [
+          "Mindfulness",
+          "BlueMonday"
+        ],
+        "mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "type": "video",
+            "id": "1881250562919858176",
+            "mediaUrl": "https://pbs.twimg.com/media/GhuLdS2WMAA4klL.jpg",
+            "videoUrl": "https://video.twimg.com/amplify_video/1881250562919858176/vid/avc1/1280x720/JRbjP_I8AjBkjpKG.mp4?tag=14",
+            "streamUrl": "https://video.twimg.com/amplify_video/1881250562919858176/pl/nzRz1o_S4Dp_fvb7.m3u8?tag=14&v=e06",
+            "videoVariants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/1881250562919858176/vid/avc1/1280x720/JRbjP_I8AjBkjpKG.mp4?tag=14",
+                "bitrate": 2176000,
+                "contentType": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/1881250562919858176/vid/avc1/640x360/elToSKdxagV1p9Cs.mp4?tag=14",
+                "bitrate": 832000,
+                "contentType": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/1881250562919858176/vid/avc1/480x270/9v5MQ2GjvdMqFzDi.mp4?tag=14",
+                "bitrate": 288000,
+                "contentType": "video/mp4"
+              }
+            ],
+            "durationMillis": 62400,
+            "width": 1280,
+            "height": 720,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              147,
+              170
+            ]
+          }
+        ],
+        "imageCount": 0,
+        "videoCount": 1,
+        "authorUserName": "uniofwarwick"
+      },
+      {
+        "id": "1880242621974536376",
+        "type": "tweet",
+        "url": "https://x.com/uniofwarwick/status/1880242621974536376",
+        "twitterUrl": "https://twitter.com/uniofwarwick/status/1880242621974536376",
+        "text": "'Bringing people together into innovation spaces – that is where great ideas start and develop, and are challenged and will grow’ \n\nJoin us for The Festival of Innovation, sponsored by NatWest, coming to campus on Monday, 27th January - don’t miss your chance to be part of it all.\n\nSecure your free spot here https://t.co/v6cKrZxtWj",
+        "createdAtIso": "2025-01-17T13:15:48.000Z",
+        "timestamp": 1737119748000,
+        "likeCount": 14,
+        "retweetCount": 3,
+        "replyCount": 1,
+        "quoteCount": 0,
+        "bookmarkCount": 0,
+        "viewCount": 11848,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://bit.ly/3BFP72f"
+        ],
+        "media": [
+          {
+            "type": "video",
+            "id": "1880242430538084352",
+            "mediaUrl": "https://pbs.twimg.com/media/Ghf2rl0WsAEaQxT.jpg",
+            "videoUrl": "https://video.twimg.com/amplify_video/1880242430538084352/vid/avc1/1280x720/6UCbO00lnQthV8I1.mp4?tag=14",
+            "streamUrl": "https://video.twimg.com/amplify_video/1880242430538084352/pl/cVNiJ7O1Vs2azBg2.m3u8?tag=14&v=052",
+            "videoVariants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/1880242430538084352/vid/avc1/1280x720/6UCbO00lnQthV8I1.mp4?tag=14",
+                "bitrate": 2176000,
+                "contentType": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/1880242430538084352/vid/avc1/640x360/gslv9_4OWUPLiF11.mp4?tag=14",
+                "bitrate": 832000,
+                "contentType": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/1880242430538084352/vid/avc1/480x270/-Rh25L7XAAeNHQKq.mp4?tag=14",
+                "bitrate": 288000,
+                "contentType": "video/mp4"
+              }
+            ],
+            "durationMillis": 66466,
+            "width": 3840,
+            "height": 2160,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              277,
+              300
+            ]
+          }
+        ],
+        "imageCount": 0,
+        "videoCount": 1,
+        "authorUserName": "uniofwarwick"
+      },
+      {
+        "id": "1879576560254001331",
+        "type": "tweet",
+        "url": "https://x.com/uniofwarwick/status/1879576560254001331",
+        "twitterUrl": "https://twitter.com/uniofwarwick/status/1879576560254001331",
+        "text": "Astronomers from the University of Warwick and @UNIGE_en have discovered two exoplanets in the WASP-132 system – an inner super-Earth and an outer icy giant. By showing that not all Hot Jupiters orbit solo, this study changes our perception of the architecture of planetary systems. Read more: https://t.co/1KhXaCYYSd",
+        "createdAtIso": "2025-01-15T17:09:07.000Z",
+        "timestamp": 1736960947000,
+        "likeCount": 21,
+        "retweetCount": 8,
+        "replyCount": 0,
+        "quoteCount": 1,
+        "bookmarkCount": 2,
+        "viewCount": 7777,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [
+          "UNIGE_en"
+        ],
+        "urls": [
+          "https://bit.ly/42f3BRv"
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "id": "1879576539085324288",
+            "mediaUrl": "https://pbs.twimg.com/media/GhWY52RWwAAvkDs.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 476,
+            "height": 268,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              274,
+              297
+            ]
+          }
+        ],
+        "imageCount": 1,
+        "videoCount": 0,
+        "authorUserName": "uniofwarwick"
+      },
+      {
+        "id": "1877403988821217533",
+        "type": "tweet",
+        "url": "https://x.com/uniofwarwick/status/1877403988821217533",
+        "twitterUrl": "https://twitter.com/uniofwarwick/status/1877403988821217533",
+        "text": "Just three weeks to go until the @UCAS undergraduate application deadline. We've compiled a list of the most commonly asked questions by students thinking of applying to Warwick &gt; https://t.co/rUW2h8m6Mg https://t.co/JG8CjyPs12",
+        "createdAtIso": "2025-01-09T17:16:06.000Z",
+        "timestamp": 1736442966000,
+        "likeCount": 6,
+        "retweetCount": 1,
+        "replyCount": 0,
+        "quoteCount": 0,
+        "bookmarkCount": 1,
+        "viewCount": 5664,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [
+          "ucas"
+        ],
+        "urls": [
+          "https://bit.ly/3CpB1iA"
+        ],
+        "media": [
+          {
+            "type": "photo",
+            "id": "1877403967816146944",
+            "mediaUrl": "https://pbs.twimg.com/media/Gg3g9jmXIAAc2pf.jpg",
+            "videoUrl": null,
+            "streamUrl": null,
+            "videoVariants": [],
+            "durationMillis": null,
+            "width": 1200,
+            "height": 800,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              207,
+              230
+            ]
+          }
+        ],
+        "imageCount": 1,
+        "videoCount": 0,
+        "authorUserName": "uniofwarwick"
+      },
+      {
+        "id": "1877018783627313260",
+        "type": "tweet",
+        "url": "https://x.com/uniofwarwick/status/1877018783627313260",
+        "twitterUrl": "https://twitter.com/uniofwarwick/status/1877018783627313260",
+        "text": "Join us at our first Festival of Innovation, sponsored by Natwest.\n\nSee some of our latest and most exciting innovations for yourself, as well as learning from change makers and entrepreneurs who are at the forefront of science and technology.\n\nBook your free place for the event taking place on campus on Monday 27th January. https://t.co/v6cKrZxtWj",
+        "createdAtIso": "2025-01-08T15:45:25.000Z",
+        "timestamp": 1736351125000,
+        "likeCount": 12,
+        "retweetCount": 4,
+        "replyCount": 0,
+        "quoteCount": 0,
+        "bookmarkCount": 0,
+        "viewCount": 4940,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": false,
+        "isSensitive": false,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://bit.ly/3BFP72f"
+        ],
+        "media": [
+          {
+            "type": "video",
+            "id": "1877018698252169216",
+            "mediaUrl": "https://pbs.twimg.com/media/GgyCnkTXkAAzmKW.jpg",
+            "videoUrl": "https://video.twimg.com/amplify_video/1877018698252169216/vid/avc1/1280x720/RsQ4wYCsltoV9QNL.mp4?tag=14",
+            "streamUrl": "https://video.twimg.com/amplify_video/1877018698252169216/pl/9W0oTXMINRfgHrU5.m3u8?tag=14&v=cfc",
+            "videoVariants": [
+              {
+                "url": "https://video.twimg.com/amplify_video/1877018698252169216/vid/avc1/1280x720/RsQ4wYCsltoV9QNL.mp4?tag=14",
+                "bitrate": 2176000,
+                "contentType": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/1877018698252169216/vid/avc1/640x360/gyA390iVLcd6iEdl.mp4?tag=14",
+                "bitrate": 832000,
+                "contentType": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/amplify_video/1877018698252169216/vid/avc1/480x270/efje_XtwGCOvaacp.mp4?tag=14",
+                "bitrate": 288000,
+                "contentType": "video/mp4"
+              }
+            ],
+            "durationMillis": 31160,
+            "width": 1920,
+            "height": 1080,
+            "altText": null,
+            "title": null,
+            "description": null,
+            "sourceStatusId": null,
+            "sensitiveWarning": null,
+            "indices": [
+              280,
+              303
+            ]
+          }
+        ],
+        "imageCount": 0,
+        "videoCount": 1,
+        "authorUserName": "uniofwarwick"
+      }
+    ],
+    "scrapedAt": "2026-11-07T03:38:10.946Z"
+  },
+  {
+    "type": "user",
+    "userName": "warwickuni",
+    "url": "https://x.com/warwickuni",
+    "twitterUrl": "https://twitter.com/warwickuni",
+    "id": "1578024148923994112",
+    "name": "University of Warwick",
+    "isVerified": null,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1625834039516057607/aHVvnPYM_normal.jpg",
+    "profilePictureFull": "https://pbs.twimg.com/profile_images/1625834039516057607/aHVvnPYM.jpg",
+    "coverPicture": "",
+    "description": "We've pushed boundaries and imagined the future for 50 years, and we've only just begun. Find us at @uniofwarwick.",
+    "location": "Coventry, UK",
+    "followers": 656,
+    "following": 0,
+    "statusesCount": 1,
+    "website": null,
+    "isProtected": false,
+    "possiblySensitive": false,
+    "affiliateLabel": null,
+    "affiliateBadgeUrl": null,
+    "identityLabel": null,
+    "identityLabelType": null,
+    "identityBadgeUrl": null,
+    "identityLabelUrl": null,
+    "affiliatesCount": null,
+    "creatorSubscriptionsCount": 0,
+    "isProfessional": false,
+    "profileImageShape": "Circle",
+    "superFollowEligible": false,
+    "createdAt": "Thu Oct 06 14:07:39 +0000 2022",
+    "createdAtIso": "2022-10-06T14:07:39.051Z",
+    "inputUrl": "https://x.com/warwickuni",
+    "profileUrl": "https://x.com/warwickuni",
+    "postsReturned": 1,
+    "latestPostAt": "2023-02-17T16:55:55.000Z",
+    "daysSinceLatestPost": 1358,
+    "timelineWithheld": false,
+    "posts": [
+      {
+        "id": "1626626509833109507",
+        "type": "tweet",
+        "url": "https://x.com/warwickuni/status/1626626509833109507",
+        "twitterUrl": "https://twitter.com/warwickuni/status/1626626509833109507",
+        "text": "Looking for the University of Warwick?\n\nYou can find us at our new handle, @uniofwarwick.\n\nSee you soon! 👋",
+        "createdAtIso": "2023-02-17T16:55:55.000Z",
+        "timestamp": 1676652955000,
+        "likeCount": 10,
+        "retweetCount": 0,
+        "replyCount": 2,
+        "quoteCount": 1,
+        "bookmarkCount": 2,
+        "viewCount": 30539,
+        "isReply": false,
+        "isRetweet": false,
+        "isQuote": false,
+        "isPinned": true,
+        "isSensitive": null,
+        "lang": null,
+        "hashtags": [],
+        "mentions": [
+          "uniofwarwick"
+        ],
+        "urls": [],
+        "media": [],
+        "imageCount": 0,
+        "videoCount": 0,
+        "authorUserName": "warwickuni"
+      }
+    ],
+    "scrapedAt": "2026-11-07T03:37:15.130Z"
+  },
+  {
+    "type": "error",
+    "inputUrl": "https://x.com/EdinburghUni",
+    "url": "https://x.com/EdinburghUni",
+    "profileUrl": "https://x.com/EdinburghUni",
+    "error": "protected",
+    "errorDescription": "https://x.com/EdinburghUni is protected — its posts are visible only to approved followers, and cannot be read without a login.",
+    "scrapedAt": "2026-11-07T03:37:15.130Z"
+  }
+]
